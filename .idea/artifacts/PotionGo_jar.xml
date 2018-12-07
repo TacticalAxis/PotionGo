@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PotionGo:jar">
+    <output-path>$PROJECT_DIR$/../../../../../../../Desktop/Minecraft-TestServer/plugins</output-path>
+    <root id="archive" name="PotionGo.jar">
+      <element id="module-output" name="PotionGo" />
+    </root>
+  </artifact>
+</component>

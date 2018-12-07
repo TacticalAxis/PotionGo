@@ -1,0 +1,11 @@
+name: PotionGo
+version: ${project.version}
+main: tacticalaxis.potiongo.Main
+api-version: 1.13
+prefix: PG
+authors: [TacticalAxis]
+description: Adds a command that removes potion effects
+commands:
+  milk:
+    description: Removes all potion effects
+    usage: /<command>
